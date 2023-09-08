@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videoconference/static/css/main.3deeadbc.css",
+    "main.js": "/videoconference/static/js/main.4242313f.js",
+    "static/media/conf.jpg": "/videoconference/static/media/conf.f8eabf3ce81fe93b781b.jpg",
+    "static/media/logo.png": "/videoconference/static/media/logo.99f2d358324c2ada5e17.png",
+    "index.html": "/videoconference/index.html",
+    "main.3deeadbc.css.map": "/videoconference/static/css/main.3deeadbc.css.map",
+    "main.4242313f.js.map": "/videoconference/static/js/main.4242313f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3deeadbc.css",
+    "static/js/main.4242313f.js"
+  ]
+}
